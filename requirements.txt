@@ -1,0 +1,8 @@
+flask
+tensorflow
+numpy
+opencv-python
+librosa
+soundfile
+matplotlib
+werkzeug
